@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CanonXMLReaderApp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Personal\\Career\\Job Applications\\Canon\\Instructions\\Sample2.xml\" \"D:\\Personal\\Career\\Job Applications\\Canon\\Instructions\\Sample1.xml\""
+    }
+  }
+}
